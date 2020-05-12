@@ -3,11 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Translator2VTT", "Translator2VTT\Translator2VTT.csproj", "{5328F787-09D1-4E01-A0D0-ACB75EE62AF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Translator2VTT", "Translator2VTT\Translator2VTT.csproj", "{5328F787-09D1-4E01-A0D0-ACB75EE62AF9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Media.Captions.WebVTT", "Media.Captions.WebVTT\Media.Captions.WebVTT.csproj", "{AFF6A8F4-B00F-414A-A08F-AE3903178BFC}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Media.Captions.WebVTT.Test", "Media.Captions.WebVTT.Test\Media.Captions.WebVTT.Test.csproj", "{BDFB1C17-90B7-4ADE-864D-F0AA422D7C95}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +21,6 @@ Global
 		{AFF6A8F4-B00F-414A-A08F-AE3903178BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFF6A8F4-B00F-414A-A08F-AE3903178BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFF6A8F4-B00F-414A-A08F-AE3903178BFC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BDFB1C17-90B7-4ADE-864D-F0AA422D7C95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BDFB1C17-90B7-4ADE-864D-F0AA422D7C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BDFB1C17-90B7-4ADE-864D-F0AA422D7C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BDFB1C17-90B7-4ADE-864D-F0AA422D7C95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

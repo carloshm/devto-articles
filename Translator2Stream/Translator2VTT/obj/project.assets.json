@@ -4,6 +4,7 @@
     ".NETCoreApp,Version=v3.1": {
       "Media.Captions.WebVTT/1.0.0": {
         "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
           "bin/placeholder/Media.Captions.WebVTT.dll": {}
         },
@@ -26,37 +27,35 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\carloshm\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/home/carloshm/.nuget/packages/": {},
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carloshm\\Source\\Repos\\devto-articles\\Translator2Stream\\Translator2VTT\\Translator2VTT.csproj",
+      "projectUniqueName": "/mnt/c/Users/carloshm/source/repos/devto-articles/Translator2Stream/Translator2VTT/Translator2VTT.csproj",
       "projectName": "Translator2VTT",
-      "projectPath": "C:\\Users\\carloshm\\Source\\Repos\\devto-articles\\Translator2Stream\\Translator2VTT\\Translator2VTT.csproj",
-      "packagesPath": "C:\\Users\\carloshm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carloshm\\Source\\Repos\\devto-articles\\Translator2Stream\\Translator2VTT\\obj\\",
+      "projectPath": "/mnt/c/Users/carloshm/source/repos/devto-articles/Translator2Stream/Translator2VTT/Translator2VTT.csproj",
+      "packagesPath": "/home/carloshm/.nuget/packages/",
+      "outputPath": "/mnt/c/Users/carloshm/source/repos/devto-articles/Translator2Stream/Translator2VTT/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\carloshm\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/carloshm/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\carloshm\\Source\\Repos\\devto-articles\\Translator2Stream\\Media.Captions.WebVTT\\Media.Captions.WebVTT.csproj": {
-              "projectPath": "C:\\Users\\carloshm\\Source\\Repos\\devto-articles\\Translator2Stream\\Media.Captions.WebVTT\\Media.Captions.WebVTT.csproj"
+            "/mnt/c/Users/carloshm/source/repos/devto-articles/Translator2Stream/Media.Captions.WebVTT/Media.Captions.WebVTT.csproj": {
+              "projectPath": "/mnt/c/Users/carloshm/source/repos/devto-articles/Translator2Stream/Media.Captions.WebVTT/Media.Captions.WebVTT.csproj"
             }
           }
         }
@@ -84,7 +83,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
       }
     }
   }

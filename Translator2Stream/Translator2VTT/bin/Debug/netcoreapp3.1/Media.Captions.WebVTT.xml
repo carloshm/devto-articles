@@ -20,6 +20,25 @@
             Measures y-dimension percentage.
             </summary>
         </member>
+        <member name="T:Media.Captions.WebVTT.BaseBlock">
+            <summary>
+            Base media metadata block.
+            </summary>
+        </member>
+        <member name="P:Media.Captions.WebVTT.BaseBlock.RawContent">
+            <summary>
+            Gets raw content of the cue block.
+            </summary>
+            <remarks>Raw content of a block can be either:
+            <list type="bullet">
+            <item>region definition and settings;</item>
+            <item>style definition;</item>
+            <item>caption or subtitle text;</item>
+            <item>chapter title text;</item>
+            <item>metadata.</item>
+            </list>
+            </remarks>
+        </member>
         <member name="T:Media.Captions.WebVTT.Comment">
             <summary>
             A WebVTT Comment block.
@@ -184,25 +203,6 @@
             <summary>
             Gets or sets subtitles, captions, and metadata.
             </summary>
-        </member>
-        <member name="T:Media.Captions.WebVTT.BaseBlock">
-            <summary>
-            Base media metadata block.
-            </summary>
-        </member>
-        <member name="P:Media.Captions.WebVTT.BaseBlock.RawContent">
-            <summary>
-            Gets raw content of the cue block.
-            </summary>
-            <remarks>Raw content of a block can be either:
-            <list type="bullet">
-            <item>region definition and settings;</item>
-            <item>style definition;</item>
-            <item>caption or subtitle text;</item>
-            <item>chapter title text;</item>
-            <item>metadata.</item>
-            </list>
-            </remarks>
         </member>
         <member name="T:Media.Captions.WebVTT.PositionAlignment">
             <summary>

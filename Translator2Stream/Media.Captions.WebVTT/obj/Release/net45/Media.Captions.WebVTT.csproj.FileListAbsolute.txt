@@ -1,0 +1,6 @@
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Media.Captions.WebVTT\bin\Release\net45\Media.Captions.WebVTT.dll
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Media.Captions.WebVTT\bin\Release\net45\Media.Captions.WebVTT.pdb
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Media.Captions.WebVTT\obj\Release\net45\Media.Captions.WebVTT.csprojAssemblyReference.cache
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Media.Captions.WebVTT\obj\Release\net45\Media.Captions.WebVTT.csproj.CoreCompileInputs.cache
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Media.Captions.WebVTT\obj\Release\net45\Media.Captions.WebVTT.dll
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Media.Captions.WebVTT\obj\Release\net45\Media.Captions.WebVTT.pdb

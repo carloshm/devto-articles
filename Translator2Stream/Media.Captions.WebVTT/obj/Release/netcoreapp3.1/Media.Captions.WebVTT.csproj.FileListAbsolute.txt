@@ -1,0 +1,6 @@
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Media.Captions.WebVTT\bin\Release\netcoreapp3.1\Media.Captions.WebVTT.deps.json
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Media.Captions.WebVTT\bin\Release\netcoreapp3.1\Media.Captions.WebVTT.dll
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Media.Captions.WebVTT\bin\Release\netcoreapp3.1\Media.Captions.WebVTT.pdb
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Media.Captions.WebVTT\obj\Release\netcoreapp3.1\Media.Captions.WebVTT.csproj.CoreCompileInputs.cache
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Media.Captions.WebVTT\obj\Release\netcoreapp3.1\Media.Captions.WebVTT.dll
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Media.Captions.WebVTT\obj\Release\netcoreapp3.1\Media.Captions.WebVTT.pdb

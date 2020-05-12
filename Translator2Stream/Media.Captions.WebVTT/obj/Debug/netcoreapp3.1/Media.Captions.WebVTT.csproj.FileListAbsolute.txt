@@ -1,0 +1,14 @@
+C:/Users/carloshm/Source/Repos/devto-articles/Translator2Stream/Media.Captions.WebVTT/bin/Debug/netcoreapp3.1/Media.Captions.WebVTT.deps.json
+C:/Users/carloshm/Source/Repos/devto-articles/Translator2Stream/Media.Captions.WebVTT/bin/Debug/netcoreapp3.1/Media.Captions.WebVTT.dll
+C:/Users/carloshm/Source/Repos/devto-articles/Translator2Stream/Media.Captions.WebVTT/bin/Debug/netcoreapp3.1/Media.Captions.WebVTT.pdb
+C:/Users/carloshm/Source/Repos/devto-articles/Translator2Stream/Media.Captions.WebVTT/bin/Debug/netcoreapp3.1/Media.Captions.WebVTT.XML
+C:/Users/carloshm/Source/Repos/devto-articles/Translator2Stream/Media.Captions.WebVTT/obj/Debug/netcoreapp3.1/Media.Captions.WebVTT.csproj.CoreCompileInputs.cache
+C:/Users/carloshm/Source/Repos/devto-articles/Translator2Stream/Media.Captions.WebVTT/obj/Debug/netcoreapp3.1/Media.Captions.WebVTT.dll
+C:/Users/carloshm/Source/Repos/devto-articles/Translator2Stream/Media.Captions.WebVTT/obj/Debug/netcoreapp3.1/Media.Captions.WebVTT.pdb
+/mnt/c/Users/carloshm/source/repos/devto-articles/Translator2Stream/Media.Captions.WebVTT/bin/Debug/netcoreapp3.1/Media.Captions.WebVTT.deps.json
+/mnt/c/Users/carloshm/source/repos/devto-articles/Translator2Stream/Media.Captions.WebVTT/bin/Debug/netcoreapp3.1/Media.Captions.WebVTT.dll
+/mnt/c/Users/carloshm/source/repos/devto-articles/Translator2Stream/Media.Captions.WebVTT/bin/Debug/netcoreapp3.1/Media.Captions.WebVTT.pdb
+/mnt/c/Users/carloshm/source/repos/devto-articles/Translator2Stream/Media.Captions.WebVTT/bin/Debug/netcoreapp3.1/Media.Captions.WebVTT.XML
+/mnt/c/Users/carloshm/source/repos/devto-articles/Translator2Stream/Media.Captions.WebVTT/obj/Debug/netcoreapp3.1/Media.Captions.WebVTT.csprojAssemblyReference.cache
+/mnt/c/Users/carloshm/source/repos/devto-articles/Translator2Stream/Media.Captions.WebVTT/obj/Debug/netcoreapp3.1/Media.Captions.WebVTT.dll
+/mnt/c/Users/carloshm/source/repos/devto-articles/Translator2Stream/Media.Captions.WebVTT/obj/Debug/netcoreapp3.1/Media.Captions.WebVTT.pdb
