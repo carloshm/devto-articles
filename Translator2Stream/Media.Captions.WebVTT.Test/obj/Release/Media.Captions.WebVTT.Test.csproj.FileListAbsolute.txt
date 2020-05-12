@@ -1,0 +1,12 @@
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Media.Captions.WebVTT.Test\bin\Release\Media.Captions.WebVTT.Test.dll
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Media.Captions.WebVTT.Test\bin\Release\Media.Captions.WebVTT.Test.pdb
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Media.Captions.WebVTT.Test\bin\Release\Media.Captions.WebVTT.dll
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Media.Captions.WebVTT.Test\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Media.Captions.WebVTT.Test\bin\Release\Media.Captions.WebVTT.pdb
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Media.Captions.WebVTT.Test\obj\Release\Media.Captions.WebVTT.Test.csprojAssemblyReference.cache
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Media.Captions.WebVTT.Test\obj\Release\Media.Captions.WebVTT.Test.Properties.Resources.resources
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Media.Captions.WebVTT.Test\obj\Release\Media.Captions.WebVTT.Test.csproj.GenerateResource.cache
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Media.Captions.WebVTT.Test\obj\Release\Media.Captions.WebVTT.Test.csproj.CoreCompileInputs.cache
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Media.Captions.WebVTT.Test\obj\Release\Media.Captions.WebVTT.Test.csproj.CopyComplete
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Media.Captions.WebVTT.Test\obj\Release\Media.Captions.WebVTT.Test.dll
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Media.Captions.WebVTT.Test\obj\Release\Media.Captions.WebVTT.Test.pdb

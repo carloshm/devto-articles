@@ -1,28 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carloshm\\source\\repos\\AITools\\Translator2VTT\\Translator2VTT.csproj": {}
+    "C:\\Users\\carloshm\\Source\\Repos\\devto-articles\\Translator2Stream\\Translator2VTT\\Translator2VTT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carloshm\\source\\repos\\AITools\\Media.Captions.WebVTT\\Media.Captions.WebVTT.csproj": {
+    "C:\\Users\\carloshm\\Source\\Repos\\devto-articles\\Translator2Stream\\Media.Captions.WebVTT\\Media.Captions.WebVTT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carloshm\\source\\repos\\AITools\\Media.Captions.WebVTT\\Media.Captions.WebVTT.csproj",
+        "projectUniqueName": "C:\\Users\\carloshm\\Source\\Repos\\devto-articles\\Translator2Stream\\Media.Captions.WebVTT\\Media.Captions.WebVTT.csproj",
         "projectName": "Media.Captions.WebVTT",
-        "projectPath": "C:\\Users\\carloshm\\source\\repos\\AITools\\Media.Captions.WebVTT\\Media.Captions.WebVTT.csproj"
+        "projectPath": "C:\\Users\\carloshm\\Source\\Repos\\devto-articles\\Translator2Stream\\Media.Captions.WebVTT\\Media.Captions.WebVTT.csproj"
       },
       "frameworks": {
         "net45": {}
       }
     },
-    "C:\\Users\\carloshm\\source\\repos\\AITools\\Translator2VTT\\Translator2VTT.csproj": {
+    "C:\\Users\\carloshm\\Source\\Repos\\devto-articles\\Translator2Stream\\Translator2VTT\\Translator2VTT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carloshm\\source\\repos\\AITools\\Translator2VTT\\Translator2VTT.csproj",
+        "projectUniqueName": "C:\\Users\\carloshm\\Source\\Repos\\devto-articles\\Translator2Stream\\Translator2VTT\\Translator2VTT.csproj",
         "projectName": "Translator2VTT",
-        "projectPath": "C:\\Users\\carloshm\\source\\repos\\AITools\\Translator2VTT\\Translator2VTT.csproj",
+        "projectPath": "C:\\Users\\carloshm\\Source\\Repos\\devto-articles\\Translator2Stream\\Translator2VTT\\Translator2VTT.csproj",
         "packagesPath": "C:\\Users\\carloshm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carloshm\\source\\repos\\AITools\\Translator2VTT\\obj\\",
+        "outputPath": "C:\\Users\\carloshm\\Source\\Repos\\devto-articles\\Translator2Stream\\Translator2VTT\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -41,8 +41,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\carloshm\\source\\repos\\AITools\\Media.Captions.WebVTT\\Media.Captions.WebVTT.csproj": {
-                "projectPath": "C:\\Users\\carloshm\\source\\repos\\AITools\\Media.Captions.WebVTT\\Media.Captions.WebVTT.csproj"
+              "C:\\Users\\carloshm\\Source\\Repos\\devto-articles\\Translator2Stream\\Media.Captions.WebVTT\\Media.Captions.WebVTT.csproj": {
+                "projectPath": "C:\\Users\\carloshm\\Source\\Repos\\devto-articles\\Translator2Stream\\Media.Captions.WebVTT\\Media.Captions.WebVTT.csproj"
               }
             }
           }

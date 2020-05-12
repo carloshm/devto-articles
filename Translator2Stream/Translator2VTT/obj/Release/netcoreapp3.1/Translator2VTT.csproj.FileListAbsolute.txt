@@ -1,0 +1,17 @@
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Translator2VTT\bin\Release\netcoreapp3.1\Translator2VTT.exe
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Translator2VTT\bin\Release\netcoreapp3.1\translate_it_sample.txt
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Translator2VTT\bin\Release\netcoreapp3.1\Translator2VTT.deps.json
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Translator2VTT\bin\Release\netcoreapp3.1\Translator2VTT.runtimeconfig.json
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Translator2VTT\bin\Release\netcoreapp3.1\Translator2VTT.runtimeconfig.dev.json
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Translator2VTT\bin\Release\netcoreapp3.1\Translator2VTT.dll
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Translator2VTT\bin\Release\netcoreapp3.1\Translator2VTT.pdb
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Translator2VTT\bin\Release\netcoreapp3.1\Media.Captions.WebVTT.dll
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Translator2VTT\bin\Release\netcoreapp3.1\Media.Captions.WebVTT.pdb
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Translator2VTT\obj\Release\netcoreapp3.1\Translator2VTT.csprojAssemblyReference.cache
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Translator2VTT\obj\Release\netcoreapp3.1\Translator2VTT.csproj.CoreCompileInputs.cache
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Translator2VTT\obj\Release\netcoreapp3.1\Translator2VTT.AssemblyInfoInputs.cache
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Translator2VTT\obj\Release\netcoreapp3.1\Translator2VTT.AssemblyInfo.cs
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Translator2VTT\obj\Release\netcoreapp3.1\Translator2VTT.csproj.CopyComplete
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Translator2VTT\obj\Release\netcoreapp3.1\Translator2VTT.dll
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Translator2VTT\obj\Release\netcoreapp3.1\Translator2VTT.pdb
+C:\Users\carloshm\Source\Repos\devto-articles\Translator2Stream\Translator2VTT\obj\Release\netcoreapp3.1\Translator2VTT.genruntimeconfig.cache
