@@ -1,0 +1,13 @@
+C:\Users\carloshm\source\repos\AITools\Media.Captions.WebVTT.Test\bin\Debug\Media.Captions.WebVTT.Test.dll
+C:\Users\carloshm\source\repos\AITools\Media.Captions.WebVTT.Test\bin\Debug\Media.Captions.WebVTT.Test.pdb
+C:\Users\carloshm\source\repos\AITools\Media.Captions.WebVTT.Test\bin\Debug\Media.Captions.WebVTT.dll
+C:\Users\carloshm\source\repos\AITools\Media.Captions.WebVTT.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\carloshm\source\repos\AITools\Media.Captions.WebVTT.Test\bin\Debug\Media.Captions.WebVTT.pdb
+C:\Users\carloshm\source\repos\AITools\Media.Captions.WebVTT.Test\bin\Debug\Media.Captions.WebVTT.xml
+C:\Users\carloshm\source\repos\AITools\Media.Captions.WebVTT.Test\obj\Debug\Media.Captions.WebVTT.Test.csprojAssemblyReference.cache
+C:\Users\carloshm\source\repos\AITools\Media.Captions.WebVTT.Test\obj\Debug\Media.Captions.WebVTT.Test.Properties.Resources.resources
+C:\Users\carloshm\source\repos\AITools\Media.Captions.WebVTT.Test\obj\Debug\Media.Captions.WebVTT.Test.csproj.GenerateResource.cache
+C:\Users\carloshm\source\repos\AITools\Media.Captions.WebVTT.Test\obj\Debug\Media.Captions.WebVTT.Test.csproj.CoreCompileInputs.cache
+C:\Users\carloshm\source\repos\AITools\Media.Captions.WebVTT.Test\obj\Debug\Media.Captions.WebVTT.Test.csproj.CopyComplete
+C:\Users\carloshm\source\repos\AITools\Media.Captions.WebVTT.Test\obj\Debug\Media.Captions.WebVTT.Test.dll
+C:\Users\carloshm\source\repos\AITools\Media.Captions.WebVTT.Test\obj\Debug\Media.Captions.WebVTT.Test.pdb

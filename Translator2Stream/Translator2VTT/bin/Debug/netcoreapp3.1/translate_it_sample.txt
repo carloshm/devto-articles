@@ -1,0 +1,182 @@
+﻿==================================
+
+Transcript WXEIJ
+
+
+
+Correlation ID = 1d78d135-e3ea-2101-6f2f-78fdb756c783
+
+
+
+Date
+
+Tue May 12 2020 10:27:27 GMT+0200 (Central European Summer Time)
+
+
+
+==================================
+
+Conversation WXEIJ
+
+
+
+Presenter @ 10:27:31
+
+Translation (English): 
+
+Recognition (Spanish): (undefined)
+
+
+
+Presenter @ 10:27:46
+
+Translation (English): 
+
+Recognition (Spanish): (undefined)
+
+
+
+Presenter @ 10:28:02
+
+Translation (English): 
+
+Recognition (Spanish): (undefined)
+
+
+
+Presenter @ 10:28:04
+
+Translation (English): It's in English, too.
+
+Recognition (Spanish): (Está en inglés, también.)
+
+
+
+Presenter @ 10:28:07
+
+Translation (English): Ok.
+
+Recognition (Spanish): (Vale.)
+
+
+
+Presenter @ 10:28:22
+
+Translation (English): So then what you review is to open 12 windows that way and stay connected while the presentation is being made.
+
+Recognition (Spanish): (O sea que entonces lo que comentas es abrir de esa manera 12 ventanas y se mantengan conectadas mientras se hace la presentación.)
+
+
+
+Presenter @ 10:28:27
+
+Translation (English): At the end of the presentation each of those 12 windows download.
+
+Recognition (Spanish): (Al final de la presentación cada una de esas 12 ventanas descargar.)
+
+
+
+Presenter @ 10:28:32
+
+Translation (English): The corresponding subtitle which is a txt ficherito, no, as far as I have seen.
+
+Recognition (Spanish): (El correspondiente subtitulado que es un ficherito txt, no, por lo que he visto.)
+
+
+
+Presenter @ 10:28:34
+
+Translation (English): The transcript.
+
+Recognition (Spanish): (La transcripción.)
+
+
+
+Presenter @ 10:28:43
+
+Translation (English): And those 12 transcripts. I guess we'd have to check the Tex Tos. I guess or so. No.
+
+Recognition (Spanish): (Y esas 12 transcripciones. Supongo que habría que revisar los Tex Tos. Supongo o sí. No.)
+
+
+
+Presenter @ 10:28:48
+
+Translation (English): Those 12 transcripts go out to the stream part.
+
+Recognition (Spanish): (Esas 12 transcripciones irnos sale a la parte del stream.)
+
+
+
+Presenter @ 10:29:04
+
+Translation (English): And once we're there, take the video and load the 12 files with the 11 hand because the English. You don't need subtitling. The 11 files with the 11 transcripts.
+
+Recognition (Spanish): (Y una vez que estamos ahí coger el vídeo y cargarle los 12 ficheros con las mano 11 porque el inglés. No necesita subtitulado. Los 11 ficheros con las 11 transcripciones.)
+
+
+
+Presenter @ 10:29:11
+
+Translation (English): It allows steam to configure each file you upload to it by associating the language to which it corresponds.
+
+Recognition (Spanish): (Que permite el Steam configurar cada fichero que le subes asociarle el idioma al que corresponde.)
+
+
+
+Presenter @ 10:29:16
+
+Translation (English): And when that was made that same recording with those 11 files loaded.
+
+Recognition (Spanish): (Y cuando eso se hiciera esa misma grabación con esas 11 ficheros cargados.)
+
+
+
+Presenter @ 10:29:24
+
+Translation (English): It could be published so that each user when playing can select the captioning on which they want to view it.
+
+Recognition (Spanish): (Se podría publicar de forma que cada usuario cuando fuera reproducir pudiera seleccionar el subtitulado en el que quiere verlo.)
+
+
+
+Presenter @ 10:29:26
+
+Translation (English): Is that it.
+
+Recognition (Spanish): (Es eso.)
+
+
+
+Presenter @ 10:29:31
+
+Translation (English): Yes.
+
+Recognition (Spanish): (Sí.)
+
+
+
+Presenter @ 10:29:36
+
+Translation (English): Uh.
+
+Recognition (Spanish): (Uh.)
+
+
+
+Presenter @ 10:29:43
+
+Translation (English): I'm reading in the easy part. Apart from the English to see how he's translating it for me.
+
+Recognition (Spanish): (Estoy leyendo en la parte fácil. Aparte del inglés para ver cómo me lo está traduciendo.)
+
+
+
+Presenter @ 10:29:50
+
+Translation (English): Siri.
+
+Recognition (Spanish): (Siri.)
+
+
+

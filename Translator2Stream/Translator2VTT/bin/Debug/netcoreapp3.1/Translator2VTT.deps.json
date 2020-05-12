@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Translator2VTT/1.0.0": {
+        "dependencies": {
+          "Media.Captions.WebVTT": "1.0.0"
+        },
+        "runtime": {
+          "Translator2VTT.dll": {}
+        }
+      },
+      "Media.Captions.WebVTT/1.0.0": {
+        "runtime": {
+          "Media.Captions.WebVTT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Translator2VTT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Media.Captions.WebVTT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

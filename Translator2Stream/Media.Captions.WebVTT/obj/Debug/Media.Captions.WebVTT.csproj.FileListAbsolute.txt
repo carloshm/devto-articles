@@ -1,0 +1,6 @@
+C:\Users\carloshm\source\repos\AITools\Media.Captions.WebVTT\bin\Debug\Media.Captions.WebVTT.XML
+C:\Users\carloshm\source\repos\AITools\Media.Captions.WebVTT\bin\Debug\Media.Captions.WebVTT.dll
+C:\Users\carloshm\source\repos\AITools\Media.Captions.WebVTT\bin\Debug\Media.Captions.WebVTT.pdb
+C:\Users\carloshm\source\repos\AITools\Media.Captions.WebVTT\obj\Debug\Media.Captions.WebVTT.csproj.CoreCompileInputs.cache
+C:\Users\carloshm\source\repos\AITools\Media.Captions.WebVTT\obj\Debug\Media.Captions.WebVTT.dll
+C:\Users\carloshm\source\repos\AITools\Media.Captions.WebVTT\obj\Debug\Media.Captions.WebVTT.pdb

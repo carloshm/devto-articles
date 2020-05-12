@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Translator2VTT": {
+      "commandName": "Project",
+      "commandLineArgs": "translate_it_sample.txt"
+    }
+  }
+}
